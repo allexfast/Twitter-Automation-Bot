@@ -10,43 +10,6 @@ If you cant get our software -
 
 💣Update your Visual C++ and OpenGL
 
-***✅HWID Changer integration***
-
-![2](https://github.com/allexfast/Twitter-Automation-Bot/assets/21358235/bad3f4b2-73f5-4fbc-a580-6692e3910412)
-
 #  Ｆｕｎｃｔｉ⚙️ｎｓ:
 
-### 🔻Aim
-
-* Auto aim at your enemies
-* Aim hotkey
-* Field of view
-* Aim smoothing
-* Target select
-* Target lock
-* Crosshair
-* Show snaplines
-* Visibility check
-* Aim at bones
-* Skip invisible
-* Flickshots
-
-### 🔻ESP
-
-* See players through walls
-* Battle mode
-* Max render distance
-* Healthbar position
-* Healthbar style
-* Border style
-* Max bones distance
-* Bones
-* Max healthbar distance
-* Max name distance
-* Max info distance
-
-### 🔻Radar
-
-* Show enemies
-* Show friends
-* Colors
+![2](https://github.com/allexfast/Twitter-Automation-Bot/assets/21358235/bad3f4b2-73f5-4fbc-a580-6692e3910412)
